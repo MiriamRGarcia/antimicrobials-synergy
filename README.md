@@ -2,7 +2,7 @@
 
 This repository provides data and mathematical models to study the Synergistic Bactericidal Effects of two Quaternary Ammonium Compounds (carvacrol and eugenol) with two Essential Oil Constituents (BAC and DDAC)
 
-- Data are provided in the Excel file "Resultados EOC's-QAC's.xlsx" and in the Matlab file "get_data.m" (with only relevant data for model calibration)
+- Data are provided in the Excel file "qac_eoc_tck_data.xlsx" and in the Matlab file "get_data.m" (with only relevant data for model calibration)
 - Model parameter estimations and simulations are run by calling "main.m" in Matlab
 - Results can be also seen without running the code in results.fig/mat/xlsx
   
