@@ -1,4 +1,4 @@
-# Outline of the repository antimicrobials-synergy
+# Outline 
 
 This repository provides data and mathematical models to study the Synergistic Bactericidal Effects of two Quaternary Ammonium Compounds (carvacrol and eugenol) with two Essential Oil Constituents (BAC and DDAC)
 
