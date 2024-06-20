@@ -5,6 +5,12 @@ This repository provides data and mathematical models to study the Synergistic B
 - Data are provided in the Excel file "qac_eoc_tck_data.xlsx" and in the Matlab file "get_data.m" (with only relevant data for model calibration)
 - Model parameter estimations and simulations are run by calling "main.m" in Matlab
 - Results can be also seen without running the code in results.fig/mat/xlsx
+
+# Publication
+
+For more details see
+
+- Pedreira, A., Fernandes, S., Simões, M., García, M. R., & Vázquez, J. A. (2024). Synergistic Bactericidal Effects of Quaternary Ammonium Compounds with Essential Oil Constituents. Foods, 13(12), 1831. [https://doi.org/10.3390/foods13121831](https://doi.org/10.3390/foods13121831)
   
 # Acknowledgements
 
